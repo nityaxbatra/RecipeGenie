@@ -1,10 +1,11 @@
-# UI Boilerplate - AI Recipe Generator
+# UI Boilerplate - Recipe Genie
 
-This is a **UI-only boilerplate** version of the AI Recipe Generator frontend. It contains all the UI components and styling but uses **dummy data** instead of making actual API calls to the backend.
+This is a **UI-only boilerplate** version of the Recipe Genie frontend. It contains all the UI components and styling but uses **dummy data** instead of making actual API calls to the backend.
 
 ## Purpose
 
 This boilerplate is designed for:
+
 - **YouTube tutorials** - Start with a working UI and implement backend integration step-by-step
 - **UI/UX demonstrations** - Show the complete interface without backend setup
 - **Frontend development** - Work on styling and components without backend dependencies
@@ -104,14 +105,14 @@ All dummy data is centralized in `src-boilerplate/data/dummyData.js`:
 
 ## Key Differences from Production
 
-| Feature | Production | Boilerplate |
-|---------|-----------|-------------|
-| Data Source | Backend API | Local dummy data |
-| Authentication | JWT tokens | Auto-login (dummy) |
-| Recipe Generation | Google Gemini AI | Pre-defined dummy recipe |
-| Data Persistence | PostgreSQL database | None (UI-only) |
-| Loading States | Real API delays | Instant or simulated |
-| Error Handling | API error responses | None needed |
+| Feature           | Production          | Boilerplate              |
+| ----------------- | ------------------- | ------------------------ |
+| Data Source       | Backend API         | Local dummy data         |
+| Authentication    | JWT tokens          | Auto-login (dummy)       |
+| Recipe Generation | Google Gemini AI    | Pre-defined dummy recipe |
+| Data Persistence  | PostgreSQL database | None (UI-only)           |
+| Loading States    | Real API delays     | Instant or simulated     |
+| Error Handling    | API error responses | None needed              |
 
 ## Next Steps for Tutorial
 

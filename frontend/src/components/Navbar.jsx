@@ -50,7 +50,7 @@ const Navbar = () => {
             className="flex items-center gap-2 text-xl font-semibold text-gray-900"
           >
             <ChefHat className="w-7 h-7 text-emerald-500" />
-            <span>AI Recipe Generator</span>
+            <span>Recipe Genie</span>
           </Link>
 
           {/* Navigation Links */}
