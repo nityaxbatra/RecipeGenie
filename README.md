@@ -4,9 +4,8 @@
 
 ### _Your intelligent cooking companion — from pantry to plate_
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-your-vercel-app.vercel.app-10b981?style=for-the-badge)](https://your-vercel-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-recipe--genie.vercel.app-10b981?style=for-the-badge)](https://recipe-genie.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-nityaxbatra--RecipeGenie-181717?style=for-the-badge&logo=github)](https://github.com/nityaxbatra/RecipeGenie.git)
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg?style=for-the-badge)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-336791?style=for-the-badge&logo=postgresql)](https://neon.tech)
@@ -16,7 +15,7 @@
 
 _Recipe Genie is a full-stack recipe application that generates personalized recipes from your pantry ingredients — complete with meal planning, shopping lists, and nutritional insights._
 
-[**View Live →**](https://your-vercel-app.vercel.app) · [**Report Bug**](https://github.com/nityaxbatra/RecipeGenie/issues) · [**Request Feature**](https://github.com/nityaxbatra/RecipeGenie/issues)
+[**View Live →**](https://recipe-genie.vercel.app) · [**Report Bug**](https://github.com/nityaxbatra/RecipeGenie/issues) · [**Request Feature**](https://github.com/nityaxbatra/RecipeGenie/issues)
 
 </div>
 
@@ -349,8 +348,6 @@ npm run dev
 
 Open the Vite URL shown in the terminal.
 
----
-
 ## 🔐 Environment Variables
 
 ### backend/.env
@@ -370,14 +367,6 @@ VITE_API_URL=http://localhost:8000/api
 ```
 
 > Do not commit `.env` files.
-
----
-
-## 📄 License
-
-ISC
-
----
 
 <div align="center">
 
