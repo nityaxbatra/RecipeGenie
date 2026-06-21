@@ -4,7 +4,7 @@
 
 ### _Your intelligent cooking companion — from pantry to plate_
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-recipe--genie.vercel.app-10b981?style=for-the-badge)](https://recipe-genie.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-recipe--genie-gules-five.vercel.app-10b981?style=for-the-badge)](https://recipe-genie-gules-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nityaxbatra--RecipeGenie-181717?style=for-the-badge&logo=github)](https://github.com/nityaxbatra/RecipeGenie.git)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
@@ -15,7 +15,7 @@
 
 _Recipe Genie is a full-stack recipe application that generates personalized recipes from your pantry ingredients — complete with meal planning, shopping lists, and nutritional insights._
 
-[**View Live →**](https://recipe-genie.vercel.app) · [**Report Bug**](https://github.com/nityaxbatra/RecipeGenie/issues) · [**Request Feature**](https://github.com/nityaxbatra/RecipeGenie/issues)
+[**View Live →**](https://recipe-genie-gules-five.vercel.app/) · [**Report Bug**](https://github.com/nityaxbatra/RecipeGenie/issues) · [**Request Feature**](https://github.com/nityaxbatra/RecipeGenie/issues)
 
 </div>
 
