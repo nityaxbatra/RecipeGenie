@@ -4,7 +4,7 @@
 
 ### _Your intelligent cooking companion — from pantry to plate_
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-recipe--genie-gules-five.vercel.app-10b981?style=for-the-badge)](https://recipe-genie-gules-five.vercel.app/)
+[![Live Demo](https://img.shields.io/static/v1?label=Live%20Demo&message=recipe-genie-gules-five.vercel.app&color=10b981&style=for-the-badge&logo=vercel)](https://recipe-genie-gules-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nityaxbatra--RecipeGenie-181717?style=for-the-badge&logo=github)](https://github.com/nityaxbatra/RecipeGenie.git)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
